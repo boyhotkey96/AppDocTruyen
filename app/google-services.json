@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "3637471690",
+    "firebase_url": "https://chatapp-a77f6.firebaseio.com",
+    "project_id": "chatapp-a77f6",
+    "storage_bucket": "chatapp-a77f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3637471690:android:3647c5755561b5b6",
+        "android_client_info": {
+          "package_name": "com.boyhotkey96.funnystories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3637471690-701esoeh05eb2oi5qfoi7566fjvgcd6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boyhotkey96.funnystories",
+            "certificate_hash": "e5fdfe0888f2762d2cb603dfbe4a89cbe3b713af"
+          }
+        },
+        {
+          "client_id": "3637471690-jl9pksjfd96egnb10amdp6fu9adg9kt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEdxAJrVa-y1lQEM35uN183qtF8xNeD4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3637471690-jl9pksjfd96egnb10amdp6fu9adg9kt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

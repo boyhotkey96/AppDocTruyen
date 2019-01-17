@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FunnyStories</string>
+
+    <!--Login Start-->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgotpassword">I\'ve forgot my password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="title">Những câu chuyện hài hước</string>
+    <!--Login End-->
+
+    <!--Toolbar Navigation Start-->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!--Toolbar Navigation End-->
+
+    <!--Login Facebook Start-->
+    <string name="facebook_app_id">1493084434138280</string>
+    <string name="fb_login_protocol_scheme">fb1493084434138280</string>
+    <!--Login Facebook End-->
+
+    <!--Fragment start-->
+    <string name="thongtin">
+        <b><font size="18">1. Giới thiệu về ứng dụng</font>\n\n
+        FunnyStories</b> là ứng dụng đọc truyện online dành riêng cho người dùng di động tại Việt Nam.
+        Ứng dụng sử dụng tài khoản Facebook hoặc đăng ký tài khoản làm nền tảng với các tính năng đọc truyện\n\n\n
+        <b><font size="18">2. Liên lạc với chúng tôi</font>\n\n</b>
+        - Địa chỉ email: funnystories@gmail.com\n
+        - Địa chỉ: 391A Nam Kỳ Khởi Nghĩa, phường 7, quận 3, tp.HCM\n\n\n
+        <b>Trân trọng cảm ơn bạn đã sử dụng sản phẩm và dịch vụ của chúng tôi.</b>
+    </string>
+</resources>
