@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Login Start-->
+    <dimen name="marginTopHinh">20dp</dimen>
+    <dimen name="widthLogo">100dp</dimen>
+    <dimen name="heightLogo">100dp</dimen>
+    <dimen name="textSize15">15sp</dimen>
+    <dimen name="canhLe10">10dp</dimen>
+    <dimen name="canhLe20">20dp</dimen>
+    <dimen name="canhLe2">2dp</dimen>
+    <dimen name="textSize20">20sp</dimen>
+    <!--Login End-->
+</resources>

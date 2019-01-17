@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <!--<item
+            android:id="@+id/muc1"
+            
+            android:icon="@drawable/ic_add_circle_black_24dp"
+            android:title="Trang Chủ" />-->
+        <item
+            android:id="@+id/muc2"
+            android:icon="@drawable/ic_action_toggle_star"
+            android:title="Danh Sách Truyện" />
+        <item
+            android:id="@+id/muc3"
+            android:icon="@drawable/ic_action_content_send"
+            android:title="Truyện Cười ngôn tình" />
+    </group>
+
+    <item android:title="Quản Lí Thông Tin">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/muc4.0"
+                    android:icon="@drawable/emoji_2614"
+                    android:title="Góp ý" />
+                <item
+                    android:id="@+id/muc4.1"
+                    android:icon="@drawable/thongtin"
+                    android:title="Thông Tin" />
+                <item
+                    android:id="@+id/muc4.2"
+                    android:icon="@drawable/out"
+                    android:title="Đăng Xuất" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
